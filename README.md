@@ -3,9 +3,16 @@ ParcelJS: https://parceljs.org/
 
 ## Running this project
 
-for dev mode:
+First thing first:
+
+`npm install`
+
+
+For dev mode:
 
 `parcel index.html`
+
+OR
 
 for prod mode:
 
