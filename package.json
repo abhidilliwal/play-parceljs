@@ -9,13 +9,14 @@
   "author": "Abhishek Dilliwal",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.3.1",
+    "npm": "^6.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "eslint": "^4.14.0",
+    "eslint": "^4.19.1",
     "eslint-config-google": "^0.9.1",
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.9.0"
   }
 }
